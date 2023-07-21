@@ -1,0 +1,9 @@
+[BINDLIST1]
+BINDNAME = smart
+COLUMN1 = taoya \\本站点\注水压力
+COLUMN2 = youya \\本站点\注药压力
+COLUMN3 = liuliang1 \\本站点\流量设置
+COLUMN4 = liuliang2 \\本站点\流量设置1
+COLUMN5 = liuliang3 \\本站点\注气流量
+COLUMN6 = name \\本站点\name
+COLUMN7 = create_time \\本站点\$日期

@@ -1,0 +1,1 @@
+此文件夹包含PLC梯形图控制程序文件，PLC梯形图中.smart文件使用STEP 7-MicroWIN SMART打开，与PLC S7-200smart通讯后，将梯形图程序下载到PLC的CPU中，进行相关设置后，运行程序可采集数据。
